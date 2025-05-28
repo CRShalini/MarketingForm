@@ -1,4 +1,4 @@
-# 🚀 Marketing Content Generator
+# Marketing Content Generator
 
 A full-stack web app that helps businesses generate tailored marketing content based on their type, target audience, and key selling points.
 
@@ -10,7 +10,7 @@ A full-stack web app that helps businesses generate tailored marketing content b
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 marketing-project/
 │
